@@ -1,13 +1,22 @@
-# Hello,
+# **Hello,** 👋  
 
-### I am [Victor](www.linkedin.com/in/victor-demessance-65a9431b0) :smile:
+### I am [Victor](www.linkedin.com/in/victor-demessance-65a9431b0) 😃  
 
-I'm a future French **engineer** interested in **computer science**, but also in any kind of knowledge.
-My favorite pastime is learning and understanding **how things work**. From the smallest insect :beetle: to the largest galaxy  :telescope:, everything can be understood and absorbed.
-On this page, I want to share one of my passions, computer science. <br>
-Small projects to experiment, or bigger ones to learn. I post everything that I think is interesting to share, both to help and to present my skills.
+I am a **French engineer specialized in embedded systems and autonomous technologies**. I just completed a **dual degree in Robotics & Intelligent Autonomous Systems**. 
 
-At the time I write this, I am still a young engineering student with a new look on the world. 
-However, I hope that one day this directory will show the knowledge I have acquired in the field where everything is possible and which I want to make my job: 
-  - **Computer science** ! :computer:
+This page is dedicated to **sharing my passion for computer science**.  
+Here, you'll find **projects of various scales**, from experimental prototypes to larger developments designed to deepen my knowledge. 
 
+I have a strong interest in:  
+- **Autonomous navigation & robotics** 🚀  
+- **Machine learning for robotics application (for example computer vision)** 🤖
+- **Embedded software & real-time systems optimization** 🖥️  
+
+As I continue my journey, I hope this repository will reflect the **knowledge I have acquired** in a field where everything is possible and which has become my profession:  
+### **Computer Science!** 💻  
+
+---
+
+🔹 **Currently looking for a final-year internship (Sept. 2025) in R&D for autonomous embedded systems.**  
+
+📫 Feel free to contact me!  
